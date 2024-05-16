@@ -70,7 +70,7 @@ QA инженер (тестировщик) основное направлени
 | Курсы                                                          | Дата              | Сертификат от окончании |
 | ---------------------------------------------------------------| :---------------: | :---------------------: |
 | rusau.net/Функциональное тестирование ПО                       | 01/2024 - 03/2024 | [![Sertificat Badge](https://img.shields.io/badge/-Сертификат-blue)](https://drive.google.com/file/d/1Ns7GepZo2AHIPxzdRAnsOKtQ7POinRA3/view?usp=sharing) |
+| Udemy/Тестирование ПО                       | 03/2024 - 04/2024 | [![Sertificat Badge](https://img.shields.io/badge/-Сертификат-blue)](https://www.udemy.com/certificate/UC-5e15819d-4e6a-4d17-b600-36dfedad55a7/) |
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FatkhiD)
